@@ -1,5 +1,5 @@
 package com.easycompany.src;
 
-public class World {
+public class EcompGen {
 
 }
